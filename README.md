@@ -3,3 +3,4 @@
 2. Python hmac API docs. https://docs.python.org/3/library/hmac.html.
 2. hashlib usage example. https://docs.python.org/3/library/hashlib.html#usage.
 2. Recipes and best practices (secrets). https://docs.python.org/3/library/secrets.html#recipes-and-best-practices.
+2. Exclusive or. Van Houtven, Laurens. Crypto 101, https://www.crypto101.io/.
