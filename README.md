@@ -4,3 +4,4 @@
 2. hashlib usage example. https://docs.python.org/3/library/hashlib.html#usage.
 2. Recipes and best practices (secrets). https://docs.python.org/3/library/secrets.html#recipes-and-best-practices.
 2. Exclusive or. Van Houtven, Laurens. Crypto 101, https://www.crypto101.io/.
+2. Python TLS sockets. https://docs.python.org/3/library/ssl.html#socket-creation.
