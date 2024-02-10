@@ -10,3 +10,10 @@ b'All input is bits\n'
 ('C', '\x18', '\x90')
 >>> 
 ```
+
+```sh
+$ echo "All input is bits\n" | hexdump
+0000000 6c41 206c 6e69 7570 2074 7369 6220 7469
+0000010 5c73 0a6e                              
+0000014
+```
