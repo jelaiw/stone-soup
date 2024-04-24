@@ -9,3 +9,4 @@
 2. "Designing Secure Software". Kohnfelder, L. No Starch Press, 2021.
 2. "cint: make ctypes great again". https://github.com/disconnect3d/cint.
 2. IEEE 754. https://en.wikipedia.org/wiki/IEEE_754.
+2. Python math.isclose. https://docs.python.org/3/library/math.html#math.isclose.
