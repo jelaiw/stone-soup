@@ -3,6 +3,9 @@ PurchaseOrder = namedtuple('PurchaseOrder', 'id, date, items')
 LineItem = namedtuple('LineItem', 'kind, detail, amount, quantity', defaults=(1,))
 
 def validorder(po):
+    """Returns an error text if the purchase order (po) is invalid,
+    or list of products to ship if valid [(quantity, SKU), ...].
+    """
     products = []
     net = 0
     for item in po.items:
