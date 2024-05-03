@@ -11,3 +11,4 @@
 2. IEEE 754. https://en.wikipedia.org/wiki/IEEE_754.
 2. Python math.isclose. https://docs.python.org/3/library/math.html#math.isclose.
 2. "Rust in Action". McNamara T. Manning, June 2021.
+2. Python os.commonpath. https://docs.python.org/3/library/os.path.html#os.path.commonpath.
