@@ -13,3 +13,4 @@
 2. "Rust in Action". McNamara T. Manning, June 2021.
 2. Python os.commonpath. https://docs.python.org/3/library/os.path.html#os.path.commonpath.
 2. Python re.match. https://docs.python.org/3/library/re.html#re.match.
+2. SymPy isprime. https://docs.sympy.org/latest/modules/ntheory.html#sympy.ntheory.primetest.isprime.
