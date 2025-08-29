@@ -14,3 +14,4 @@
 2. Python os.commonpath. https://docs.python.org/3/library/os.path.html#os.path.commonpath.
 2. Python re.match. https://docs.python.org/3/library/re.html#re.match.
 2. SymPy isprime. https://docs.sympy.org/latest/modules/ntheory.html#sympy.ntheory.primetest.isprime.
+2. "A method for obtaining digital signatures and public-key cryptosystems". Rivest R, Shamir A, Adleman L. Laboratory for Computer Science, MIT, April 1977, https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TM-082.pdf.
