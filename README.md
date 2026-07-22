@@ -16,3 +16,4 @@
 2. SymPy isprime. https://docs.sympy.org/latest/modules/ntheory.html#sympy.ntheory.primetest.isprime.
 2. "A method for obtaining digital signatures and public-key cryptosystems". Rivest R, Shamir A, Adleman L. Laboratory for Computer Science, MIT, April 1977, https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TM-082.pdf.
 2. Python Cryptographic Authority _cryptography.x509.Certificate.tbs_certificate_bytes_. https://cryptography.io/en/latest/x509/reference/#cryptography.x509.Certificate.tbs_certificate_bytes.
+2. "The Developer's Playbook for Large Language Model Security". Wilson, S. O'Reilly, 2024.
