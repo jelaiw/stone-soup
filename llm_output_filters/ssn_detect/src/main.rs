@@ -2,6 +2,7 @@ use regex::Regex;
 
 fn contains_ssn(input_string: &str) -> bool {
     let ssn_pattern = r"\b\d{3}-\d{2}-\d{4}\b";
+    // https://docs.rs/regex/latest/regex/struct.Regex.html#method.new
     let re = Regex::new(ssn_pattern).unwrap();
 
     match re.find(input_string) {
