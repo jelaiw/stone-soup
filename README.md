@@ -20,3 +20,4 @@ Making soup with code examples from the works of different authors.
 2. "A method for obtaining digital signatures and public-key cryptosystems". Rivest R, Shamir A, Adleman L. Laboratory for Computer Science, MIT, April 1977, https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TM-082.pdf.
 2. Python Cryptographic Authority _cryptography.x509.Certificate.tbs_certificate_bytes_. https://cryptography.io/en/latest/x509/reference/#cryptography.x509.Certificate.tbs_certificate_bytes.
 2. "The Developer's Playbook for Large Language Model Security". Wilson, S. O'Reilly, 2024.
+2. "The Tangled Web". Zalewski, M. No Starch Press, 2012.
